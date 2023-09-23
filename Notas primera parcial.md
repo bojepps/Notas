@@ -1,10 +1,10 @@
-# Apuntes 1ra Parcial
----
-###### Emmanuel Munguia Quiroz 3D
------
+# Apuntes Primera Parcial
+
+###### Kevin Rodriguez Buenrostro
+
 ## Programacion Funcional
 
-La programación funcional es un paradigma de programación que se basa en el concepto de funciones matemáticas puras y en el tratamiento de los programas como evaluación de funciones. En la programación funcional, los programas se construyen utilizando principalmente funciones y evitan el cambio de estado y la mutación de datos.
+es un paradigma de programación que se basa en el concepto de funciones matemáticas puras y en el tratamiento de los programas como evaluación de funciones. En la programación funcional, los programas se construyen utilizando principalmente funciones y evitan el cambio de estado y la mutación de datos.
 ### Caracteristicas
 Algunas de sus caracteristicas son:
 
