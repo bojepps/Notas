@@ -1,14 +1,13 @@
-# UNIVERSIDAD DE COLIMA
----
-### INGENIERIA EN COMPUTACION INTELIGENTE
+
+# INGENIERIA EN COMPUTACION INTELIGENTE
 ---
 ### PROGRAMACIÓN FUNCIONAL
 
 ---
-Emmanuel Munguia Quiroz 3D
-
+#### 2da Parcial
 ---
-#### 2da Parcial-Ejercicios de Clase
+Kevin Rodriguez Buenrostro 1D
+
 ---
 
 **Sintaxis de una Funcion**
